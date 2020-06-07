@@ -34,6 +34,8 @@ SONIFICATION
   
   * I ended up settling on collating the number of legions per year because it created an audible pattern. My other attempts ended up in just a rising line, essentially what you see in the lower half of the screenshot.
   
+  * I've uploaded a comparison between my beginning spreadsheet and ending spreadsheet, showing how I had to rework the data to create the final sonification pattern I ended up with (Screenshot 2).
+  
 MAPPING
 
 * 
