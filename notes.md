@@ -57,3 +57,9 @@ LEAFLET
 * Success! All of the layers were added, including the animation, first try!
 
 * I'm still very new to this, but I find that when following the instructions I can jump back and forth between certain sections of the code a bit more efficiently these days. I'm not as timid about getting it wrong, and I mostly get it right anyways!
+
+POSTERS
+
+* I'm struggling with typography. I understand the principles behind matching fonts and complementing each other, but I don't have the design skills to be able to know what works myself.
+
+* I'm not fully sure of what step 17 is asking. I googled 'what matches well with Helvetica' since that is what the PDF uses, and I used a recommendation that I found on Google--Georgia.
