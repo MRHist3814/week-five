@@ -46,4 +46,14 @@ STORYMAPS
   
 LEAFLET
 
-* 
+* In the command terminal I kept getting errors because I was putting in commands incorrectly. Getting rusty on the week 2 skills!
+
+* It was very satisfying (and relieving) when I reloaded the demo webmap and everything worked as intended.
+
+* Georectifying gave me some troubles. I chose a map of Ottawa, loaded up five different control points, and the whole thing just... broke.
+
+* I tried it with a different image, of a different part of the city, and got it to work. Managed to get it into index.html with no issues, either.
+
+* Success! All of the layers were added, including the animation, first try!
+
+* I'm still very new to this, but I find that when following the instructions I can jump back and forth between certain sections of the code a bit more efficiently these days. I'm not as timid about getting it wrong, and I mostly get it right anyways!
