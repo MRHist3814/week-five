@@ -36,6 +36,14 @@ SONIFICATION
   
   * I've uploaded a comparison between my beginning spreadsheet and ending spreadsheet, showing how I had to rework the data to create the final sonification pattern I ended up with (Screenshot 2).
   
-MAPPING
+STORYMAPS
+
+* I enjoy making maps, so this was a relatively easy process for me. I knew a topic I wanted to cover, so although it was time consuming, making the map was easy and enjoyable enough.
+
+  * <iframe src="https://uploads.knightlab.com/storymapjs/c10f189c554111e0640466e03dad2a5f/the-batavia/index.html" frameborder="0" width="100%" height="800"></iframe>
+  
+  * https://uploads.knightlab.com/storymapjs/c10f189c554111e0640466e03dad2a5f/the-batavia/index.html
+  
+LEAFLET
 
 * 
