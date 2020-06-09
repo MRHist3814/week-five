@@ -6,10 +6,6 @@ READINGS
   
 * I think what stands out to me most is efficiency. There's something convenient, and readily apparent about the way this information is presented that isn't always true of essays and articles.
 
-PODCASTING
-
-* Very much struggling to bring myself to do this task based on personal anxieties. Will return to later after the other tasks.
-
 SONIFICATION
 
 * Had a really hard time trying to find out what data to use. Used the provided example just to see what the process was.
@@ -63,3 +59,15 @@ POSTERS
 * I'm struggling with typography. I understand the principles behind matching fonts and complementing each other, but I don't have the design skills to be able to know what works myself.
 
 * I'm not fully sure of what step 17 is asking. I googled 'what matches well with Helvetica' since that is what the PDF uses, and I used a recommendation that I found on Google--Georgia.
+
+* In terms of designing our an academic poster, I was struggling with the templates provided in the syllabus, so I decided to make my own from scratch.
+
+  * Though this was time consuming, I got the layout to something more akin to what I wanted. I still took inspiration from the templates, working the information around a central image, but I made it into something that I felt represented my topic better.
+  
+  * I found the layouts provided too... small? Restricted? It felt like I was being confined to space I didn't want to use in the way it was presented, so I sort of recreated the concept in a manner more suited to what I intended to say.
+  
+STATIC WEBSITE
+
+* I sincerely appreciate going through the first steps to see a resulting Napoleon Dynamite GIF. Made my night.
+
+* 
