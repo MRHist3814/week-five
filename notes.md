@@ -70,4 +70,6 @@ STATIC WEBSITE
 
 * I sincerely appreciate going through the first steps to see a resulting Napoleon Dynamite GIF. Made my night.
 
-* 
+* I'm lost on how to go further, though. I think the wording (and the quantity of words!) in the instructions on Discord and the websites provided are overwhelming me.
+
+* I've tried Youtube tutorials as well (I'm a better visual learner) but to no avail. I'm going to leave this here and return to it during Week 6.
